@@ -1,0 +1,10 @@
+{
+  "name": "Engine",
+  "version": "0.0.1",
+  "authors": [
+    "jeffersonmourak"
+  ],
+  "description": "This is an Game Engine from test",
+  "license": "MIT",
+  "homepage": "http://jeffersonmourak.com"
+}
